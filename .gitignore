@@ -1,0 +1,5 @@
+build/
+#ignore all files with .a at the end 
+*.a
+
+test.py
